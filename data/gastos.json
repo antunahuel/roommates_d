@@ -1,0 +1,26 @@
+[
+    {
+        "id": "38dc3d",
+        "roommate": "Oscar Hanson",
+        "descripcion": "Articulos de limpieza",
+        "monto": 15000
+    },
+    {
+        "id": "a63332",
+        "roommate": "Oscar Hanson",
+        "descripcion": "Articulos de limpieza",
+        "monto": 4500
+    },
+    {
+        "id": "9e11ab",
+        "roommate": "Alexis Wood",
+        "descripcion": "Articulos de limpieza",
+        "monto": 6000
+    },
+    {
+        "id": "ca2e95",
+        "roommate": "Frederik Rasmussen",
+        "descripcion": "Articulos de limpieza",
+        "monto": 6000
+    }
+]

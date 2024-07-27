@@ -1,0 +1,20 @@
+[
+    {
+        "id": "b5665a",
+        "nombre": "Frederik Rasmussen",
+        "debe": 8500,
+        "recibe": 4000
+    },
+    {
+        "id": "6fed0c",
+        "nombre": "Oscar Hanson",
+        "debe": 4000,
+        "recibe": 13000
+    },
+    {
+        "id": "95b892",
+        "nombre": "Alexis Wood",
+        "debe": 8500,
+        "recibe": 4000
+    }
+]
